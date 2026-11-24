@@ -15,10 +15,10 @@ visualize the result.
 
 ## Data
 
-- **Source:** my official transcript, Autumn 2024 – Spring 2026 (7 terms)
+- **Source:** my official transcript, Autumn 2024 – Summer 2026 (8 terms)
 - **Size:** 21 courses, 10 columns (Year, Season, Course_code, Grade,
   Attempted, Points, Repeated, …)
-- **Official cumulative GPA:** 3.940
+- **Official cumulative GPA:** 3.946
 
 ## Analysis
 
@@ -33,8 +33,8 @@ visualize the result.
 
 ## Key Findings
 
-- Recomputed cumulative GPA = **3.940**, matching the official transcript exactly
-- All 7 terms reconciled against the official record
+- Recomputed cumulative GPA = **3.946**, matching the official transcript exactly
+- All 8 terms reconciled against the official record
 - Lowest term was 2025 Winter (**3.667**) — one B in English Composition
 - By department: most are 4.0; **English** is 3.5 (that one B), while
   **Mathematics** has both the most courses (4) and a 4.0 — the most consistent
