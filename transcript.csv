@@ -1,0 +1,24 @@
+Year,Season,Course_code,Course_number,Description,Attempted,Earned,Grade,Points,Repeated
+2024,Fall,ESOL,87,English pronunciation,2,2,S,0,N/A
+2024,Fall,ESOL,88,International Student Life,2,2,S,0,N/A
+2024,Fall,ESOL,113,Acad ESOL comp/read I,6,6,S,0,N/A
+2024,Fall,PE,102,Strength Training,2,2,A,8,N/A
+2025,Winter,BUS,101,Intro to Business,5,5,A,20,N/A
+2025,Winter,ENGL,101,English Composition I,5,5,B,15,N/A
+2025,Winter,MATH,151,Calculus I,5,5,A,20,N/A
+2025,Spring,ECON,201,Micro Economics,5,5,A,20,N/A
+2025,Spring,ENGL,201,Advanced Composition,5,5,A,20,N/A
+2025,Spring,MATH,152,Calculus II,5,0,F,0,Excluded
+2025,Summer,BUS,201,Business Law,5,5,A,20,N/A
+2025,Summer,ECON,202,Macro Economics,5,5,A,20,N/A
+2025,Fall,BIOL,100,Survey of Biology,5,5,A,20,N/A
+2025,Fall,HUM,101,Intro to The Humanities,6,6,A,24,N/A
+2025,Fall,MATH,152,Calculus II,5,5,A,20,Included
+2026,Winter,ACCT,201,Prin of Accounting I,5,5,A,20,N/A
+2026,Winter,CS,141,Computer Science I Java,5,5,A,20,N/A
+2026,Winter,MATH,146,Introduction to Stats,5,5,A,20,N/A
+2026,Spring,ACCT,202,Prin of Accounting II,5,5,A,20,N/A
+2026,Spring,ART,100,Art Appreciation,5,5,A,20,N/A
+2026,Spring,OCEA,101,Intro Oceanography W/Lab,5,5,A,20,N/A
+2026,Summer,ACCT,203,Prin of Accounting III,5,5,A,20,N/A
+2026,Summer,FILM,101,Introduction to Film,5,5,A,20,N/A
